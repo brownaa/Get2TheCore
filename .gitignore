@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 data/
 Core Dataset-updated-25-6-18.zip
+pascal-multi.ipynb
+fastai/
+data.zip
